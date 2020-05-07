@@ -49,3 +49,12 @@ body {
   .game-info {
     margin-left: 20px;
   }
+
+  .move-list-item-selected{
+    float: left;
+    font-weight: bold;
+  }
+
+  .winningSquares {
+    background-color: green;
+  }
